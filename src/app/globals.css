@@ -3,8 +3,8 @@
 @theme inline {
   --color-background: var(--bg);
   --color-foreground: var(--fg);
-  --font-display: var(--font-playfair);
-  --font-body: var(--font-noto-sans);
+  --font-display: "Georgia", "Times New Roman", "Songti SC", "Noto Serif CJK SC", serif;
+  --font-body: "PingFang SC", "Microsoft YaHei", "Hiragino Sans GB", "WenQuanYi Micro Hei", system-ui, -apple-system, sans-serif;
 }
 
 :root {
